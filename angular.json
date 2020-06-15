@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "marathon47"
+    }
+  },
+  "defaultProject": "marathon47",
+  "cli": {
+    "analytics": "42110059-95b6-4517-afff-6772bfff5234"
+  }
 }
